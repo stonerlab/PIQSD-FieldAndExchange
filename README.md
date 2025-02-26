@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14930304.svg)](https://doi.org/10.5281/zenodo.14930304)
+
 # Sources for: Path integral spin dynamics with exchange and external field
 
 This repository contains source code which implements a path integral approach to calculate the thermodynamics of two quantum spins coupled by exchange interaction in a magnetic field. It contains a numerical approach based on atomistic spin dynamics, and in the special case where the magnetic field is along the z-direction, exact diagonalisation results are provided for the quantum system. 
